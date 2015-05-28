@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = mercador-sub
+omit = mercador-sub/openstack/*
+
+[report]
+ignore-errors = True

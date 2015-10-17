@@ -1,15 +1,7 @@
-===============================
-mercador-sub
-===============================
+This project is no longer maintained.
 
-Mercador: cloud service federation: subscriber
+The contents of this repository are still available in the Git source code
+management system. To see the contents of this repository before it reached
+its end of life, please check out the previous commit with 
+"git checkout HEAD^1".
 
-* Free software: Apache license
-* Documentation: http://docs.openstack.org/developer/mercador-sub
-* Source: http://git.openstack.org/cgit/stackforge/mercador-sub
-* Bugs: http://bugs.launchpad.net/Mercador-Sub
-
-Features
---------
-
-* TODO
